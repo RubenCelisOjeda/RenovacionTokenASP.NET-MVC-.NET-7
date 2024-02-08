@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenovarTokenMiddleware", "RenovarTokenMiddleware\RenovarTokenMiddleware.csproj", "{F23E85FA-85B8-4D1B-A39B-DBFC00CED710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23E85FA-85B8-4D1B-A39B-DBFC00CED710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23E85FA-85B8-4D1B-A39B-DBFC00CED710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23E85FA-85B8-4D1B-A39B-DBFC00CED710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23E85FA-85B8-4D1B-A39B-DBFC00CED710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD3E3F9-B2A9-4961-9EDD-E7C8D09BB0A5}
+	EndGlobalSection
+EndGlobal
